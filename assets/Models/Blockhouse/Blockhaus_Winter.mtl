@@ -1,0 +1,55 @@
+#Produced by Art of Illusion 2.6.1, Thu Feb 05 14:01:22 CET 2009
+newmtl unterbau
+Kd 0.53 0.53 0.52
+Ks 0 0 0
+Ka 0 0 0
+illum 1
+newmtl dach
+Kd 1 1 1
+map_Kd Blockhaus_Winter6.jpg
+Ks 0 0 0
+Ka 0 0 0
+illum 1
+newmtl boden2
+Kd 1 1 1
+map_Kd Blockhaus_Winter2.jpg
+Ks 0 0 0
+Ka 0 0 0
+illum 1
+newmtl pfosten
+Kd 1 1 1
+map_Kd Blockhaus_Winter4.jpg
+Ks 0 0 0
+Ka 0 0 0
+illum 1
+newmtl rot
+Kd 0.42651 0.11187 0.06992
+Ks 0.5152 0.5152 0.5152
+Ka 0 0 0
+illum 2
+Ns 103
+newmtl scheibe
+Kd 0.14433 0.16424 0.20903
+Ks 0.18794 0.23131 0.29396
+Ka 0 0 0
+illum 2
+Ns 125
+newmtl kamin
+Kd 1 1 1
+map_Kd Blockhaus_Winter5.jpg
+Ks 0.3042 0.2574 0.2028
+Ka 0 0 0
+illum 2
+Ns 103
+newmtl boden
+Kd 1 1 1
+map_Kd Blockhaus_Winter1.jpg
+Ks 0 0 0
+Ka 0 0 0
+illum 1
+newmtl holz
+Kd 1 1 1
+map_Kd Blockhaus_Winter3.jpg
+Ks 0 0 0
+Ka 0 0 0
+illum 1

@@ -1,0 +1,37 @@
+ElfinAxe(C) John Reilly 2009 
+
+
+
+-----READ ME----- 
+
+
+THESE PROPS CAN BE USED FOR COMMERCIAL OR NON-COMMERCIAL RENDERS. BUT THEY ARE NOT TO BE SOLD OR PASSED OFF AS YOUR OWN WORK.
+
+
+
+
+INSTRUCTIONS
+============
+
+After downloading the prop, I'd suggest you unzip it to a folder on your desktop.
+In Daz Studio, go to FILE - IMPORT, then browse to the folder on your desktop, and
+select 'elfin.OBJ'.
+
+The IMPORT OPTIONS =
+
+HEXAGON (1 UNIT = 1CM)
+
+SCALE 100%
+
+
+Daz Studio should load the prop and the materials/textures needed, if it does not do
+so then in the SCENE TREE select 'Elfinaxe' and in the SURFACES TAB select 'elfinaxe', then 
+scroll down and choose "bronze.jpg". Go to FILE - MERGE and look for 'BRONZE.JPG'. Do the 
+same for the other parts which make up the axe.
+
+Hopefully (I cannot promise anything) everything will work okay. Oh, I have given each
+part it's own colour, but between you and me have a look in Rendo for 'Super-Shine-Shader'.
+
+Happy rendering - John
+
+

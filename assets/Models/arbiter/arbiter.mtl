@@ -1,0 +1,27 @@
+# Blender MTL File: 'arbiter.blend'
+# Material Count: 2
+
+newmtl mi_dante_weapons_demon
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd t_dante_weapons_demon_dm.tga
+map_Disp t_dante_weapons_demon_n.tga
+map_Ke t_dante_weapons_demon_m.tga
+
+newmtl mi_dante_weapons_handle
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd t_dante_weapons_rebellion_d.tga
+map_Ks t_dante_weapons_rebellion_s.tga
+map_Disp t_dante_weapons_rebellion_n.tga
+map_Ke t_dante_weapons_rebellion_m.tga

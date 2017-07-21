@@ -1,0 +1,9 @@
+# MTL written from C:\Users\Martins\Documents\Modo_models\shareCG\ax\Ax1.obj
+newmtl ax
+Kd 0.9 0.9 0.9
+Ns 256
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.1 0.1 0.1
+map_Kd C:\Users\Martins\Documents\Modo_models\shareCG\ax\Ax_final_dif.png

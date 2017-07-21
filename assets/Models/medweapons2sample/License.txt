@@ -1,0 +1,35 @@
+License Agreement
+
+The3dModelStore Terms of Use License
+
+This is a legal agreement between you and The3dModelStore.
+If you proceed to download any products, you hereby signify that you have agreed to all of the terms and conditions set forth below. The products are only licensed to you; they are not sold to you.
+
+The products contained herein are owned by The3dModelStore.
+The3dModelStore grants to you a perpetual, worldwide, non-exclusive, non-assignable, non-transferable, non-sub-licensable license to use the products. This license is valid only with respect to the products and only if you have paid the applicable fee. All rights are reserved and will be revoked if you do not follow these terms of use.
+
+The products may be used Royalty Free:
+
+1) For personal or commercial use.
+2) For advertising or promotional use.
+3) For website or in any electronic devices.
+4) In broadcast, multimedia, video games or animation. (in as many applications as necessary)
+5) In books or magazines.
+6) The products may be modified for individual style and appearance.
+
+You are not permitted to:
+
+1) Market, distribute, give, transfer, sell or sublicense the products in any format with the exception of a compiled application such as a video game. If the products are used in a compiled application then the following rules must be strictly followed:
+
+a) The products must be a part of the compiled program.
+
+b) Every possible attempt should be made to protect the products from theft by using resource encryption or some other form of concealment.
+
+c) The products must exist only within the program code and may not be rebuilt on a user's computer hard drive from the compiled binary.
+
+d) Every attempt should be made to protect the products from copyright infringement. This includes the methods mentioned in line 1-b but should also include any resources you have at your disposal.
+
+2) sell or distribute the modified products in any format except as part of a compiled application (See line 1 above for compilation terms).
+
+One or more textures on these 3D models have been created with images from CGTextures.com. 
+These images may not be redistributed by default, please visit www.cgtextures.com for more information.

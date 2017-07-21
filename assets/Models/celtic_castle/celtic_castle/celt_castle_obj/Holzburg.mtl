@@ -1,0 +1,31 @@
+#Produced by Art of Illusion 2.5, Sat Dec 06 16:56:26 CET 2008
+newmtl Dach
+Kd 1 1 1
+map_Kd Holzburg5.jpg
+Ks 0 0 0
+Ka 0 0 0
+illum 1
+newmtl Holz3
+Kd 1 1 1
+map_Kd Holzburg2.jpg
+Ks 0 0 0
+Ka 0 0 0
+illum 1
+newmtl Holz
+Kd 1 1 1
+map_Kd Holzburg1.jpg
+Ks 0 0 0
+Ka 0 0 0
+illum 1
+newmtl Leiterholz
+Kd 1 1 1
+map_Kd Holzburg4.jpg
+Ks 0 0 0
+Ka 0 0 0
+illum 1
+newmtl Holz2
+Kd 1 1 1
+map_Kd Holzburg3.jpg
+Ks 0 0 0
+Ka 0 0 0
+illum 1

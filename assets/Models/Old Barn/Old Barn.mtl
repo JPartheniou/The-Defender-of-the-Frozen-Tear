@@ -1,0 +1,1019 @@
+# Max2Mtl Version 4.0 Mar 10th, 2001
+#
+newmtl 05_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd Sitework.Shadowbox.jpg
+#
+newmtl 03_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd FlooringWood1.jpg
+#
+# Multi/Sub Material__143 (24) to come 
+#
+newmtl 05_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd Sitework.Shadowbox.jpg
+#
+newmtl 05_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd Sitework.Shadowbox.jpg
+#
+newmtl 05_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd Sitework.Shadowbox.jpg
+#
+newmtl 05_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd Sitework.Shadowbox.jpg
+#
+newmtl 05_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd Sitework.Shadowbox.jpg
+#
+newmtl 05_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd Sitework.Shadowbox.jpg
+#
+newmtl 05_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd Sitework.Shadowbox.jpg
+#
+newmtl 05_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd Sitework.Shadowbox.jpg
+#
+newmtl 05_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd Sitework.Shadowbox.jpg
+#
+newmtl 05_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd Sitework.Shadowbox.jpg
+#
+newmtl 05_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd Sitework.Shadowbox.jpg
+#
+newmtl 05_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd Sitework.Shadowbox.jpg
+#
+newmtl 08_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd ThermaWood_Batten.jpg
+#
+newmtl 08_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd ThermaWood_Batten.jpg
+#
+newmtl 08_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd ThermaWood_Batten.jpg
+#
+newmtl 08_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd ThermaWood_Batten.jpg
+#
+newmtl 08_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd ThermaWood_Batten.jpg
+#
+newmtl 08_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd ThermaWood_Batten.jpg
+#
+newmtl 08_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd ThermaWood_Batten.jpg
+#
+newmtl 08_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd ThermaWood_Batten.jpg
+#
+newmtl 08_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd ThermaWood_Batten.jpg
+#
+newmtl 08_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd ThermaWood_Batten.jpg
+#
+newmtl 08_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd ThermaWood_Batten.jpg
+#
+newmtl 08_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd ThermaWood_Batten.jpg
+#
+# Multi/Sub Material__143 done 
+#
+newmtl 02_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd Concrete.Smooth.jpg
+#
+newmtl 06_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd SiteworkShadowbox-Trellis.jpg
+map_d SiteworkShadowbox-Trellis.cutout.jpg
+bump SiteworkShadowbox-Trellis.cutout.jpg
+#
+newmtl 13_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd WoodsWood.Boards.jpg
+#
+newmtl 08_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd ThermaWood_Batten.jpg
+#
+# Multi/Sub Material__238 (18) to come 
+#
+newmtl 10_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd WoodsWood.Boards1.jpg
+#
+newmtl 10_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd WoodsWood.Boards1.jpg
+#
+newmtl 10_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd WoodsWood.Boards1.jpg
+#
+newmtl 10_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd WoodsWood.Boards1.jpg
+#
+newmtl 10_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd WoodsWood.Boards1.jpg
+#
+newmtl 10_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd WoodsWood.Boards1.jpg
+#
+newmtl 06_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd SiteworkShadowbox-Trellis.jpg
+map_d SiteworkShadowbox-Trellis.cutout.jpg
+bump SiteworkShadowbox-Trellis.cutout.jpg
+#
+newmtl 06_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd SiteworkShadowbox-Trellis.jpg
+map_d SiteworkShadowbox-Trellis.cutout.jpg
+bump SiteworkShadowbox-Trellis.cutout.jpg
+#
+newmtl 06_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd SiteworkShadowbox-Trellis.jpg
+map_d SiteworkShadowbox-Trellis.cutout.jpg
+bump SiteworkShadowbox-Trellis.cutout.jpg
+#
+newmtl 06_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd SiteworkShadowbox-Trellis.jpg
+map_d SiteworkShadowbox-Trellis.cutout.jpg
+bump SiteworkShadowbox-Trellis.cutout.jpg
+#
+newmtl 06_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd SiteworkShadowbox-Trellis.jpg
+map_d SiteworkShadowbox-Trellis.cutout.jpg
+bump SiteworkShadowbox-Trellis.cutout.jpg
+#
+newmtl 06_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd SiteworkShadowbox-Trellis.jpg
+map_d SiteworkShadowbox-Trellis.cutout.jpg
+bump SiteworkShadowbox-Trellis.cutout.jpg
+#
+newmtl 06_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd SiteworkShadowbox-Trellis.jpg
+map_d SiteworkShadowbox-Trellis.cutout.jpg
+bump SiteworkShadowbox-Trellis.cutout.jpg
+#
+newmtl 06_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd SiteworkShadowbox-Trellis.jpg
+map_d SiteworkShadowbox-Trellis.cutout.jpg
+bump SiteworkShadowbox-Trellis.cutout.jpg
+#
+newmtl 06_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd SiteworkShadowbox-Trellis.jpg
+map_d SiteworkShadowbox-Trellis.cutout.jpg
+bump SiteworkShadowbox-Trellis.cutout.jpg
+#
+newmtl 06_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd SiteworkShadowbox-Trellis.jpg
+map_d SiteworkShadowbox-Trellis.cutout.jpg
+bump SiteworkShadowbox-Trellis.cutout.jpg
+#
+newmtl 06_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd SiteworkShadowbox-Trellis.jpg
+map_d SiteworkShadowbox-Trellis.cutout.jpg
+bump SiteworkShadowbox-Trellis.cutout.jpg
+#
+newmtl 06_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd SiteworkShadowbox-Trellis.jpg
+map_d SiteworkShadowbox-Trellis.cutout.jpg
+bump SiteworkShadowbox-Trellis.cutout.jpg
+#
+# Multi/Sub Material__238 done 
+#
+newmtl 07_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd ThermalWood.Horizontal.jpg
+#
+newmtl 04_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd FloorWood.jpg
+#
+newmtl 10_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd WoodsWood.Boards1.jpg
+#
+# Multi/Sub Material__489 (12) to come 
+#
+newmtl 06_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd SiteworkShadowbox-Trellis.jpg
+map_d SiteworkShadowbox-Trellis.cutout.jpg
+bump SiteworkShadowbox-Trellis.cutout.jpg
+#
+newmtl 06_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd SiteworkShadowbox-Trellis.jpg
+map_d SiteworkShadowbox-Trellis.cutout.jpg
+bump SiteworkShadowbox-Trellis.cutout.jpg
+#
+newmtl 06_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd SiteworkShadowbox-Trellis.jpg
+map_d SiteworkShadowbox-Trellis.cutout.jpg
+bump SiteworkShadowbox-Trellis.cutout.jpg
+#
+newmtl 06_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd SiteworkShadowbox-Trellis.jpg
+map_d SiteworkShadowbox-Trellis.cutout.jpg
+bump SiteworkShadowbox-Trellis.cutout.jpg
+#
+newmtl 06_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd SiteworkShadowbox-Trellis.jpg
+map_d SiteworkShadowbox-Trellis.cutout.jpg
+bump SiteworkShadowbox-Trellis.cutout.jpg
+#
+newmtl 06_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd SiteworkShadowbox-Trellis.jpg
+map_d SiteworkShadowbox-Trellis.cutout.jpg
+bump SiteworkShadowbox-Trellis.cutout.jpg
+#
+newmtl 05_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd Sitework.Shadowbox.jpg
+#
+newmtl 05_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd Sitework.Shadowbox.jpg
+#
+newmtl 05_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd Sitework.Shadowbox.jpg
+#
+newmtl 05_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd Sitework.Shadowbox.jpg
+#
+newmtl 05_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd Sitework.Shadowbox.jpg
+#
+newmtl 05_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd Sitework.Shadowbox.jpg
+#
+# Multi/Sub Material__489 done 
+#
+# Multi/Sub Material__437 (12) to come 
+#
+newmtl 06_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd SiteworkShadowbox-Trellis.jpg
+map_d SiteworkShadowbox-Trellis.cutout.jpg
+bump SiteworkShadowbox-Trellis.cutout.jpg
+#
+newmtl 06_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd SiteworkShadowbox-Trellis.jpg
+map_d SiteworkShadowbox-Trellis.cutout.jpg
+bump SiteworkShadowbox-Trellis.cutout.jpg
+#
+newmtl 06_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd SiteworkShadowbox-Trellis.jpg
+map_d SiteworkShadowbox-Trellis.cutout.jpg
+bump SiteworkShadowbox-Trellis.cutout.jpg
+#
+newmtl 06_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd SiteworkShadowbox-Trellis.jpg
+map_d SiteworkShadowbox-Trellis.cutout.jpg
+bump SiteworkShadowbox-Trellis.cutout.jpg
+#
+newmtl 06_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd SiteworkShadowbox-Trellis.jpg
+map_d SiteworkShadowbox-Trellis.cutout.jpg
+bump SiteworkShadowbox-Trellis.cutout.jpg
+#
+newmtl 06_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd SiteworkShadowbox-Trellis.jpg
+map_d SiteworkShadowbox-Trellis.cutout.jpg
+bump SiteworkShadowbox-Trellis.cutout.jpg
+#
+newmtl 05_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd Sitework.Shadowbox.jpg
+#
+newmtl 05_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd Sitework.Shadowbox.jpg
+#
+newmtl 05_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd Sitework.Shadowbox.jpg
+#
+newmtl 05_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd Sitework.Shadowbox.jpg
+#
+newmtl 05_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd Sitework.Shadowbox.jpg
+#
+newmtl 05_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd Sitework.Shadowbox.jpg
+#
+# Multi/Sub Material__437 done 
+#
+newmtl 11_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd SANDSHOR.JPG
+#
+newmtl met
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd STEELPLT.JPG
+#
+newmtl 12_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd OLDWOOD.jpg
+#
+# Multi/Sub Material__333 (12) to come 
+#
+newmtl 06_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd SiteworkShadowbox-Trellis.jpg
+map_d SiteworkShadowbox-Trellis.cutout.jpg
+bump SiteworkShadowbox-Trellis.cutout.jpg
+#
+newmtl 06_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd SiteworkShadowbox-Trellis.jpg
+map_d SiteworkShadowbox-Trellis.cutout.jpg
+bump SiteworkShadowbox-Trellis.cutout.jpg
+#
+newmtl 06_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd SiteworkShadowbox-Trellis.jpg
+map_d SiteworkShadowbox-Trellis.cutout.jpg
+bump SiteworkShadowbox-Trellis.cutout.jpg
+#
+newmtl 06_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd SiteworkShadowbox-Trellis.jpg
+map_d SiteworkShadowbox-Trellis.cutout.jpg
+bump SiteworkShadowbox-Trellis.cutout.jpg
+#
+newmtl 06_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd SiteworkShadowbox-Trellis.jpg
+map_d SiteworkShadowbox-Trellis.cutout.jpg
+bump SiteworkShadowbox-Trellis.cutout.jpg
+#
+newmtl 06_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd SiteworkShadowbox-Trellis.jpg
+map_d SiteworkShadowbox-Trellis.cutout.jpg
+bump SiteworkShadowbox-Trellis.cutout.jpg
+#
+newmtl 05_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd Sitework.Shadowbox.jpg
+#
+newmtl 05_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd Sitework.Shadowbox.jpg
+#
+newmtl 05_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd Sitework.Shadowbox.jpg
+#
+newmtl 05_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd Sitework.Shadowbox.jpg
+#
+newmtl 05_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd Sitework.Shadowbox.jpg
+#
+newmtl 05_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd Sitework.Shadowbox.jpg
+#
+# Multi/Sub Material__333 done 
+#
+# Multi/Sub Material__385 (12) to come 
+#
+newmtl 06_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd SiteworkShadowbox-Trellis.jpg
+map_d SiteworkShadowbox-Trellis.cutout.jpg
+bump SiteworkShadowbox-Trellis.cutout.jpg
+#
+newmtl 06_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd SiteworkShadowbox-Trellis.jpg
+map_d SiteworkShadowbox-Trellis.cutout.jpg
+bump SiteworkShadowbox-Trellis.cutout.jpg
+#
+newmtl 06_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd SiteworkShadowbox-Trellis.jpg
+map_d SiteworkShadowbox-Trellis.cutout.jpg
+bump SiteworkShadowbox-Trellis.cutout.jpg
+#
+newmtl 06_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd SiteworkShadowbox-Trellis.jpg
+map_d SiteworkShadowbox-Trellis.cutout.jpg
+bump SiteworkShadowbox-Trellis.cutout.jpg
+#
+newmtl 06_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd SiteworkShadowbox-Trellis.jpg
+map_d SiteworkShadowbox-Trellis.cutout.jpg
+bump SiteworkShadowbox-Trellis.cutout.jpg
+#
+newmtl 06_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd SiteworkShadowbox-Trellis.jpg
+map_d SiteworkShadowbox-Trellis.cutout.jpg
+bump SiteworkShadowbox-Trellis.cutout.jpg
+#
+newmtl 05_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd Sitework.Shadowbox.jpg
+#
+newmtl 05_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd Sitework.Shadowbox.jpg
+#
+newmtl 05_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd Sitework.Shadowbox.jpg
+#
+newmtl 05_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd Sitework.Shadowbox.jpg
+#
+newmtl 05_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd Sitework.Shadowbox.jpg
+#
+newmtl 05_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd Sitework.Shadowbox.jpg
+#
+# Multi/Sub Material__385 done 
+#
+# EOF
